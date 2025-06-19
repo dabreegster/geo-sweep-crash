@@ -1,0 +1,9 @@
+[package]
+name = "geo-sweep-crash"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+geo = "0.30.0"
+serde_json = "1.0.140"
+wkt = "0.14.0"
